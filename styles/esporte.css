@@ -1,0 +1,48 @@
+.main div.esportes-header {
+  background-color: #febb22;
+  color: #111;
+  display: flex;
+  border-radius: 20px 0px;
+  padding-bottom: 0px;
+  border: 0px;
+  box-shadow: 10px 10px 10px #ccc;
+}
+
+.esportes-header img {
+  height: 250px;
+  margin-right: 10px;
+}
+.esportes-header > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+button.vejamais {
+  color: white;
+}
+
+button.vejamais:hover {
+  color: #ddd;
+}
+
+.main .noticia-main article.artigo-noticia {
+  margin-top: 0px;
+}
+
+.main div.basquete {
+  background-color: #fbb03b;
+}
+
+.main div.game {
+  background-color: rgb(143, 84, 238);
+}
+
+.main div.volei {
+  background-color: rgb(128, 230, 88);
+}
+
+/*
+Site criado por Kayo Vinicius, Gustavo Cavalcante, Brendon Gomes
+Etec de Sapopemba - Programação de WEB II
+*/
